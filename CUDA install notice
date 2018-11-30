@@ -1,0 +1,11 @@
+tensorflow install:
+https://tw.saowen.com/a/a9cc5b7c90a6f350850d8554c018f7415981fc8d470b481c90afd7573f5e12cd
+
+nccl install:
+https://docs.nvidia.com/deeplearning/sdk/nccl-install-guide/index.html
+
+套件名稱:
+NVIDIA-Linux-x86_64-390.87.run
+nccl-repo-ubuntu1604-2.3.7-ga-cuda9.2_1-1_amd64.deb
+cuda_9.2.148_396.37_linux.run
+bazel_0.19.2-linux-x86_64.deb
