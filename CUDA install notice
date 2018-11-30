@@ -1,8 +1,11 @@
 tensorflow install:
 https://tw.saowen.com/a/a9cc5b7c90a6f350850d8554c018f7415981fc8d470b481c90afd7573f5e12cd
 
+https://github.com/tensorflow/tensorflow/issues/349
+
 nccl install:
 https://docs.nvidia.com/deeplearning/sdk/nccl-install-guide/index.html
+
 
 套件名稱:
 NVIDIA-Linux-x86_64-390.87.run
